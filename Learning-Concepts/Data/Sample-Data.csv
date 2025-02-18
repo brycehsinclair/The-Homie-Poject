@@ -1,0 +1,11 @@
+id,name,age,city,income,signup_date
+1,Alice,25,New York,50000,1/15/2023
+2,Bob,30,los angeles,60000,2/14/2022
+3,,22,Chicago,,3/20/2021
+4,David,,Houston,70000,
+5,Eve,45,PHOENIX,80000,7/4/2020
+6,Frank,-1,San Diego,90000,not a date
+7,Grace,33,,75000,12/31/2019
+8,Hank,40,Dallas,,6/1/2022
+9,Ivy,,Austin,55000,5/22/2023
+10,,29,Boston,62000,1/10/2024
